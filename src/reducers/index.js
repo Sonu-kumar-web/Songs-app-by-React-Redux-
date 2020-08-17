@@ -19,6 +19,14 @@ const songsReducer = () => {
          title: "Vaaste",
          duration: "5:23",
       },
+      {
+         title: "Aaj Se Teri",
+         duration: "6:19",
+      },
+      {
+         title: "Ban Ja Rani",
+         duration: "4:12",
+      },
    ];
 };
 
